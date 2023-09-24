@@ -903,7 +903,10 @@ const Footer = () => {
                     Liability Limited By A Scheme Approved Under Professional
                     Services Scheme
                   </h2>
-                  <ul className="font-plus_jakarta text-[#FFF] text-xs  text-white w-56" id="ContactUs">
+                  <ul
+                    className="font-plus_jakarta text-[#FFF] text-xs  text-white w-56"
+                    id="ContactUs"
+                  >
                     <li className="mb-4">
                       <a href="#" className="hover:underline">
                         Phone: (64) 09 973 4905
@@ -924,8 +927,8 @@ const Footer = () => {
               </div>
             </div>
             <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-            <div className="sm:flex sm:items-center sm:justify-between pb-8 px-20 lg:px-44 w-full">
-              <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
+            <div className="sm:flex sm:items-center sm:justify-between pb-8 px-20 lg:px-44 w-full text-[#FFF]">
+              <span className="text-sm text-white-500 sm:text-center dark:text-white-400">
                 © 2023{" "}
                 <a href="https://flowbite.com/" className="hover:underline">
                   Flowbite™
@@ -935,7 +938,7 @@ const Footer = () => {
               <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0 mr-24 text-center">
                 <a
                   href="#"
-                  className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                  className="text-white-500 hover:text-white-900 dark:hover:text-white"
                 >
                   <svg
                     className="w-4 h-4"
@@ -954,7 +957,7 @@ const Footer = () => {
                 </a>
                 <a
                   href="#"
-                  className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                  className="text-white-500 hover:text-white-900 dark:hover:text-white"
                 >
                   <svg
                     className="w-4 h-4"
@@ -969,7 +972,7 @@ const Footer = () => {
                 </a>
                 <a
                   href="#"
-                  className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                  className="text-white-500 hover:text-white-900 dark:hover:text-white"
                 >
                   <svg
                     className="w-4 h-4"
@@ -988,7 +991,7 @@ const Footer = () => {
                 </a>
                 <a
                   href="#"
-                  className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                  className="text-white-500 hover:text-white-900 dark:hover:text-white"
                 >
                   <svg
                     className="w-4 h-4"
@@ -1007,7 +1010,7 @@ const Footer = () => {
                 </a>
                 <a
                   href="#"
-                  className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
+                  className="text-white-500 hover:text-white-900 dark:hover:text-white"
                 >
                   <svg
                     className="w-4 h-4"
